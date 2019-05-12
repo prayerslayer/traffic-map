@@ -3,3 +3,7 @@
 # Ignore data files except processed ones
 data/*/*
 !processed.csv
+
+# Rendered images
+*.png
+!examples/*.png
