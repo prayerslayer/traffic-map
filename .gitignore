@@ -1,0 +1,5 @@
+.DS_Store
+
+# Ignore data files except processed ones
+data/*/*
+!processed.csv
