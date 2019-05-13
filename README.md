@@ -13,6 +13,12 @@ Outputs: Some maps! Ideas follow.
 - Very naturalistic (like Google Maps satellite view)
 - Different flavors of schematic maps (the kind you see in train/bus stations)
 
+## Resources
+
+- [Drawing and Labeling High-Quality Metro Maps
+by Mixed-Integer Programming](http://www1.pub.informatik.uni-wuerzburg.de/pub/wolff/pub/nw-dlhqm-10.pdf), a paper where the authors create schematic traffic maps by turning map properties into numeric optimization problems - very nice!
+- https://github.com/public-transport/generating-transit-maps
+
 ## Examples so far
 
 **All of VBB**
